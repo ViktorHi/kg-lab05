@@ -6,7 +6,12 @@ Symple application wich provides apportunities
 * Perform clipping using the appropriate algorithms.
 * Render visible parts of lines (polygons)
 
+| ![](https://github.com/ViktorHi/kg-lab05/blob/master/img/lines.png) |
+| :---: |
+| *Cliped* |
+
 # Result
+
 
 | ![](https://github.com/ViktorHi/kg-lab05/blob/master/img/lines.png) |
 | :---: |
