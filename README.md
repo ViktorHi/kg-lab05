@@ -9,6 +9,6 @@ Symple application wich provides apportunities
 # Result
 
 | ![](https://github.com/ViktorHi/kg-lab05/blob/master/img/lines.png) |
-| |---| |
+| :---: |
 | *Cliped* |
 
