@@ -8,12 +8,12 @@ Symple application wich provides apportunities
 
 | ![](https://github.com/ViktorHi/kg-lab05/blob/master/img/lines.png) |
 | :---: |
-| *Cliped* |
+| *Lines* |
 
 # Result
-
-
-| ![](https://github.com/ViktorHi/kg-lab05/blob/master/img/lines.png) |
+| ![](https://github.com/ViktorHi/kg-lab05/blob/master/img/strip.png) |
 | :---: |
 | *Cliped* |
+
+
 
